@@ -1,2 +1,2 @@
 # DAV-6150
-DAV6150 Assignments
+Data Science Project works done at Yeshiva University
